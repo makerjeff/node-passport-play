@@ -1,0 +1,9 @@
+{
+  "name": "node-passport-play",
+  "version": "0.0.1",
+  "description":"using passport middleware to make authentication easier"
+  "private": true,
+  "dependencies": {
+
+  }
+}
